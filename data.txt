@@ -1,0 +1,4 @@
+karol,6
+andrzej,5
+witam,3
+test,1
